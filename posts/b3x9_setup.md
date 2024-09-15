@@ -1,5 +1,5 @@
 ---
-title: b3x9 Setup
+title: b3x9 setup notes
 description: Here's my notes from the steps needed to setup this blog.
 date: 2024-09-15
 scheduled: 2024-09-14
@@ -30,11 +30,19 @@ idea is to be a landing page to the shop and the blog. with gifs. cause gifs are
 https://github.com/google/eleventy-high-performance-blog
 
 
-## gif test two 
-
-[/img/parrot.gif](parrot)
-[damn parrot](../img/parrot.gif)
 
 ```bash
 npm install @11ty/eleventy-plugin-rss
 ```
+
+
+
+#gif tests (the most important part)
+
+## A sample GIF
+![A sample GIF](https://thumbs.gfycat.com/EqualCreativeCowbird-max-1mb.gif)
+
+## gif test two 
+[/img/parrot.gif](parrot)
+[damn parrot](../img/parrot.gif)
+
